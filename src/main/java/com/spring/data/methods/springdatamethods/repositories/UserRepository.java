@@ -29,4 +29,8 @@ public interface UserRepository extends CrudRepository<User, Long>{
 	Long deleteByName(String name);
 	
 	Long deleteById(Long id);
+	
+	List<User> findByAgeGreaterThan(int age);
+	
+	List<User> findByNameOrderByLastNameAsc(String name);
 }

@@ -76,4 +76,12 @@ public class UserBussiness {
 		return repository.findTop2ByName(name);
 	}
 
+	public List<User> findByAgeGreaterThan(int age){
+		return repository.findByAgeGreaterThan(age);
+	}
+	
+	public List<User> findByNameOrderByLastNameAsc(String name){
+		return repository.findByNameOrderByLastNameAsc(name);
+	}
+	
 }
