@@ -26,7 +26,7 @@ $ mvn spring-boot:run
 
  4º Step: Open your browser and run the URL below
 
-[localhost:8080/][PlDb]
+<http://localhost:8080/>
 
 ### H2 Databases
 
@@ -34,7 +34,7 @@ All datas are persisted at H2 database
 
 Remember that H2 is a memory database and to running queries in the terminal the application must being running.
 
-## To access 
+### To access 
 
-[localhost:8080/h2][PlDb]
+<http://localhost:8080/h2>
 
