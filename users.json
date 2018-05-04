@@ -1,0 +1,60 @@
+[
+
+	{
+	  "name": "Seth",
+	  "lastName": "Sierra",
+	  "age": "21",
+	  "city": "Los Angeles",
+	  "state": "California"
+	},
+	{
+	  "name": "Seth",
+	  "lastName": "Kugel",
+	  "age": "24",
+	  "city": "Los Altos Viejos",
+	  "state": "California"
+	},
+	{
+	  "name": "Seth",
+	  "lastName": "Sanchez",
+	  "age": "42",
+	  "city": "Los Angeles",
+	  "state": "California"
+	},
+	{
+	  "name": "Josh",
+	  "lastName": "Kimberly",
+	  "age": "23",
+	  "city": "Phoenix",
+	  "state": "Arizona"
+	},
+	{
+	  "name": "Sarah",
+	  "lastName": "Mendez",
+	  "age": "18",
+	  "city": "Peach Springs",
+	  "state": "Arizona"
+	},
+	{
+	  "name": "Marian",
+	  "lastName": "Schultz",
+	  "age": "30",
+	  "city": "Las Vegas",
+	  "state": "Nevada"
+	},
+	{
+	  "name": "Meredith",
+	  "lastName": "Cain",
+	  "age": "45",
+	  "city": "Las Vegas",
+	  "state": "Nevada"
+	},
+	{
+	  "name": "Allan",
+	  "lastName": "Cain",
+	  "age": "15",
+	  "city": "Albany",
+	  "state": "New York"
+	}
+
+]
