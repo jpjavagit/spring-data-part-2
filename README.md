@@ -28,9 +28,13 @@ $ mvn spring-boot:run
 
 <http://localhost:8080/>
 
-### H2 Databases
+### users.json
 
-All datas are persisted at H2 database
+There's a json file called users.json that you can use to persist using the endpoint /saveUsers
+
+### H2 Database
+
+The datas are persisted at H2 database.
 
 Remember that H2 is a memory database and to running queries in the terminal the application must being running.
 
